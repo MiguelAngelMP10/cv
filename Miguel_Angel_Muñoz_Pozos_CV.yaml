@@ -1,0 +1,343 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+
+cv:
+  name: Miguel Ángel Muñoz Pozos
+  headline: Backend PHP · Magento 2 · Desarrollador Full Stack
+  location: México
+  email: mmunozpozos@gmail.com
+  phone: "+52 241 112 5657"
+#  photo: perfil.jpeg
+
+  social_networks:
+    - network: LinkedIn
+      username: MiguelAngelMP10
+    - network: GitHub
+      username: MiguelAngelMP10
+#    - network: X
+#      username: MiguelAngelMP10
+
+  sections:
+    Perfil Profesional:
+      - Desarrollador Full Stack especializado en backend PHP y comercio electrónico.
+        Experiencia en soluciones web escalables y automatización de procesos fiscales
+        y comerciales, con enfoque en rendimiento, calidad de código y buenas prácticas.
+
+    Experiencia Profesional:
+      - company: Instituto Tlaxcalteca de Elecciones (ITE)
+        position: Jefe Provisional del Área Técnica de Informática (ATI)        
+        start_date: 2025-11
+        end_date: present
+        location: Tlaxcala, México
+        highlights:
+          - Coordinación y supervisión de los sistemas informáticos institucionales para procesos electorales.
+          - Gestión de infraestructura tecnológica, seguridad de la información y continuidad operativa.
+          - Liderazgo de equipos técnicos y toma de decisiones críticas en entornos de alta disponibilidad.
+          - Desarrollo, mantenimiento e integración de sistemas internos para registro, validación y control de información.
+          - Implementación de buenas prácticas de desarrollo, control de accesos y auditoría de sistemas.
+
+      - company: Crimson Circle
+        position: Desarrollador Full Stack (Magento 2)
+        start_date: 2025-04
+        end_date: 2025-08
+        location: Remoto
+        highlights:
+          - Desarrollo de módulo en Magento 2 para precálculo de precios basado en reglas de cliente.
+          - Optimización de rendimiento y experiencia de compra (mejoras en tiempos de carga).
+          - Aplicación del SDLC y principios de organizaciones de alta fiabilidad (HRO).
+
+      - company: Softtek
+        position: Ingeniero de Software
+        start_date: 2024-10
+        end_date: 2025-02
+        location: Remoto
+        highlights:
+          - Revisión y evaluación de código PHP bajo estándares de calidad y seguridad.
+          - Capacitación técnica continua y fortalecimiento de buenas prácticas.
+
+      - company: Freelance
+        position: Desarrollador Full Stack
+        start_date: 2024-04
+        end_date: 2024-10
+        location: Remoto
+        highlights:
+          - Desarrollo de sistemas de automatización fiscal y comercial.
+          - Implementación de descarga masiva de CFDI, POS y control de deudas.
+          - Desarrollo de APIs REST y scrapers especializados del SAT.
+
+      - company: BESTA Arrendadora
+        position: Desarrollador Full Stack Middle
+        start_date: 2023-12
+        end_date: 2024-04
+        location: Remoto
+        highlights:
+          - Desarrollo y mantenimiento de módulos administrativos.
+          - Generación de reportes y consultas internas.
+          - Soporte a clientes internos.
+
+      - company: Wagento Commerce
+        position: Desarrollador JR Magento 2
+        start_date: 2021-10
+        end_date: 2023-09
+        location: Remoto
+        highlights:
+          - Desarrollo y configuración de tiendas Magento 2.
+          - Implementación de pasarelas de pago y módulos personalizados.
+
+      - company: Enlace Athenea S.A. de C.V.
+        position: Tester de Software
+        start_date: 2020-09
+        end_date: 2021-10
+        location: Puebla, México
+        highlights:
+          - Pruebas funcionales, de integración y rendimiento de aplicaciones educativas.
+
+      - company: Tecnológico Nacional de México – Campus Apizaco
+        position: Desarrollador Web
+        start_date: 2021-02
+        end_date: 2023-03
+        location: Apizaco, Tlaxcala
+        highlights:
+          - Desarrollo de módulos para sistemas de información.
+          - Creación de APIs REST utilizando Laravel.
+          
+    Formación Académica:
+
+      - institution: Tecnológico Nacional de México – Campus Apizaco
+        area: Maestría en Sistemas Computacionales
+        start_date: 2023-08
+        end_date: 2025-07
+        location: Apizaco, Tlaxcala
+
+      - institution: Tecnológico Nacional de México – Campus Apizaco
+        area: Licenciatura en Tecnologías de la Información y Comunicaciones
+        start_date: 2023-08
+        end_date: 2025-07
+        location: Apizaco, Tlaxcala
+
+
+    Sector de Experiencia:
+      - label: Áreas
+        details: Comercio electrónico · Desarrollo web · Bases de datos · Desarrollo de software
+
+
+    Especialización:
+      - label: Enfoque
+        details: Backend PHP · Comercio electrónico con Magento 2
+
+
+    Habilidades Técnicas:
+      - label: Lenguajes Backend
+        details: PHP · Node.js · Python · Java · TypeScript
+      - label: Lenguajes Frontend
+        details: JavaScript · React · Next.js · Vue.js · Angular · Svelte
+      - label: Frameworks
+        details: Laravel · Yii2
+      - label: Bases de datos
+        details: MySQL · MariaDB · PostgreSQL · SQLite · MongoDB
+      - label: Comercio electrónico
+        details: Magento 2 · WooCommerce · VTEX
+      - label: DevOps y control de versiones
+        details: Docker · Git · GitHub · Bitbucket · GitKraken
+      - label: Herramientas de desarrollo
+        details: Composer · NPM · Postman · Insomnia · Chrome DevTools
+
+    Certificaciones:
+      - label: Backend y Automatización (Platzi · 2025)
+        details: Prompt Engineering · Automatización con n8n · Backend PHP Avanzado
+      - label: Desarrollo Backend (Platzi · 2025)
+        details: Node.js · TypeScript · Java · Spring Framework
+
+    Aptitudes:
+      - label: Habilidades blandas
+        details: Resolución de problemas · Trabajo en equipo · Adaptabilidad · Organización · Formación continua
+
+design:
+  theme: classic
+  page:
+    size: us-letter 
+    top_margin: 0.7in
+    bottom_margin: 0.7in
+    left_margin: 0.7in
+    right_margin: 0.7in
+    show_footer: true
+    show_top_note: true
+
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    headline: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+
+  typography:
+    line_spacing: 0.7em
+    alignment: justified 
+    date_and_location_column_alignment: right
+    font_family:
+      body: EB Garamond
+      name: Inter
+      headline: Inter
+      connections: Inter
+      section_titles: Inter
+
+    font_size:
+      body: 10pt
+      name: 30pt
+      headline: 10pt
+      connections: 10pt
+      section_titles: 1.4em
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+
+  links:
+    underline: false
+    show_external_link_icon: false
+
+  header:
+    alignment: center 
+    photo_width: 3.5cm
+    photo_position: left 
+    photo_space_left: 0.4cm
+    photo_space_right: 0.4cm
+    space_below_name: 0.7cm
+    space_below_headline: 0.7cm
+    space_below_connections: 0.7cm
+    connections:
+      phone_number_format:  international
+      hyperlink: true
+      show_icons: true
+      display_urls_instead_of_usernames: false
+      separator: ''
+      space_between_connections: 0.5cm
+
+  section_titles:
+    type: with_partial_line 
+    line_thickness: 0.5pt
+    space_above: 0.8cm
+    space_below: 0.3cm
+
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1.2em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: 
+      - experience
+
+  entries:
+    date_and_location_width: 4.15cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: true
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: • 
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+
+  templates: 
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+ 
+locale:
+  language: spanish
+  # last_updated: Última actualización
+  # month: mes
+  # months: meses
+  # year: año
+  # years: años
+  # present: presente
+  # month_abbreviations:
+  #   - Ene
+  #   - Feb
+  #   - Mar
+  #   - Abr
+  #   - May
+  #   - Jun
+  #   - Jul
+  #   - Ago
+  #   - Sep
+  #   - Oct
+  #   - Nov
+  #   - Dic
+  # month_names:
+  #   - Enero
+  #   - Febrero
+  #   - Marzo
+  #   - Abril
+  #   - Mayo
+  #   - Junio
+  #   - Julio
+  #   - Agosto
+  #   - Septiembre
+  #   - Octubre
+  #   - Noviembre
+  #   - Diciembre
+settings:
+  current_date: '2026-01-02'
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
