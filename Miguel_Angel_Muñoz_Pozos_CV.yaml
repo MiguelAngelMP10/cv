@@ -24,9 +24,21 @@ cv:
 
     Experiencia Profesional:
       - company: Instituto Tlaxcalteca de Elecciones (ITE)
-        position: Jefe Provisional del Área Técnica de Informática (ATI)        
-        start_date: 2025-11
+        position: Titular del Área Técnica de Informática (ATI)
+        start_date: 2026-08-14
         end_date: present
+        location: Tlaxcala, México
+        highlights:
+          - Coordinación y supervisión de los sistemas informáticos institucionales para procesos electorales.
+          - Gestión de infraestructura tecnológica, seguridad de la información y continuidad operativa.
+          - Liderazgo de equipos técnicos y toma de decisiones críticas en entornos de alta disponibilidad.
+          - Desarrollo, mantenimiento e integración de sistemas internos para registro, validación y control de información.
+          - Implementación de buenas prácticas de desarrollo, control de accesos y auditoría de sistemas.
+
+      - company: Instituto Tlaxcalteca de Elecciones (ITE)
+        position: Jefe Provisional del Área Técnica de Informática (ATI)
+        start_date: 2025-11
+        end_date: 2026-08-14
         location: Tlaxcala, México
         highlights:
           - Coordinación y supervisión de los sistemas informáticos institucionales para procesos electorales.

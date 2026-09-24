@@ -11,11 +11,29 @@
 Desarrollador Full Stack especializado en backend PHP y comercio electrónico. Experiencia en soluciones web escalables y automatización de procesos fiscales y comerciales, con enfoque en rendimiento, calidad de código y buenas prácticas.
 
 # Experiencia Profesional
+## **Instituto Tlaxcalteca de Elecciones (ITE)**, Titular del Área Técnica de Informática (ATI)
+
+Tlaxcala, México
+
+Ago 2026 – presente
+
+- Coordinación y supervisión de los sistemas informáticos institucionales para procesos electorales.
+
+- Gestión de infraestructura tecnológica, seguridad de la información y continuidad operativa.
+
+- Liderazgo de equipos técnicos y toma de decisiones críticas en entornos de alta disponibilidad.
+
+- Desarrollo, mantenimiento e integración de sistemas internos para registro, validación y control de información.
+
+- Implementación de buenas prácticas de desarrollo, control de accesos y auditoría de sistemas.
+
+
+
 ## **Instituto Tlaxcalteca de Elecciones (ITE)**, Jefe Provisional del Área Técnica de Informática (ATI)
 
 Tlaxcala, México
 
-Nov 2025 – presente
+Nov 2025 – Ago 2026
 
 - Coordinación y supervisión de los sistemas informáticos institucionales para procesos electorales.
 
@@ -124,7 +142,7 @@ Feb 2021 – Mar 2023
 
 Apizaco, Tlaxcala
 
-Ago 2023 – Jul 2025
+Ago 2018 – Jun 2021
 
 
 
@@ -134,7 +152,7 @@ Ago 2023 – Jul 2025
 
 Apizaco, Tlaxcala
 
-Ago 2023 – Jul 2025
+Ago 2013 – Jun 2018
 
 
 
